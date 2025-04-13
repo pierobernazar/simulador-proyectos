@@ -1,1 +1,0 @@
-<TU CÓDIGO JSX AQUI>
